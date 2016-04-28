@@ -1,4 +1,4 @@
-# LUCT-Android-CodeBase
+# LUCT's Android Class Projects. 
 
 Thie repository contains all the code projects discussed in class for the Modules (Java II & Mobile Device Programming I). 
 
